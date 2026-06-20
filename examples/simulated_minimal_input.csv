@@ -1,0 +1,4 @@
+patient_key,t0_datetime,antibiotic_delay_hours,death_30d,age,sex,race,admission_category,charlson,sofa_t0,shock_t0
+SIM001,2026-01-01 00:00:00,1.5,0,65,Male,White,Emergency,4,5,0
+SIM002,2026-01-02 00:00:00,4.2,1,72,Female,Other,Urgent,6,8,1
+SIM003,2026-01-03 00:00:00,9.1,0,58,Male,Black,Emergency,2,3,0
