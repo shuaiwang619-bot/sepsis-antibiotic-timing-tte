@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+title: "Code for sepsis antibiotic timing target trial emulation"
+message: "If you use this code, please cite the associated article once available."
+type: software
+authors:
+  - family-names: Kang
+    given-names: Le
+  - family-names: Wang
+    given-names: Shuai
+  - family-names: Ruan
+    given-names: Fengqi
+  - family-names: Chen
+    given-names: Chong
+repository-code: "https://github.com/TO_BE_ADDED/sepsis-antibiotic-timing-tte"
+license: MIT
