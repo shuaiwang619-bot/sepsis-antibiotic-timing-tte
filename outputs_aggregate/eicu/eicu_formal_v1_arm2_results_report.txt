@@ -1,0 +1,44 @@
+eICU formal_v1 arm2 main results report
+exposure input: D:/codex 工作目录/TTE目标模拟实验/TTE正式实验/eICU正式流程_formal_v1/outputs/models/eicu_formal_v1_arm2_model_exposure_summary.csv
+diagnostics input: D:/codex 工作目录/TTE目标模拟实验/TTE正式实验/eICU正式流程_formal_v1/outputs/models/eicu_formal_v1_arm2_model_fit_diagnostics.csv
+
+primary contrast:
+3-12h vs 0-3h antibiotic start; outcome = 30-day in-hospital death.
+
+result table:
+                                         Model      Contrast      OR (95% CI)
+                                Crude logistic 3-12h vs 0-3h 1.08 (0.90-1.29)
+                             Adjusted logistic 3-12h vs 0-3h 1.12 (0.92-1.37)
+ Adjusted logistic + hospital random intercept 3-12h vs 0-3h 1.11 (0.91-1.36)
+                  Support-expanded sensitivity 3-12h vs 0-3h 1.13 (0.93-1.38)
+                  Rare-comorbidity sensitivity 3-12h vs 0-3h 1.13 (0.93-1.38)
+ P value                                                     Interpretation
+   0.412 Late arm has higher estimated odds - Not statistically significant
+   0.256 Late arm has higher estimated odds - Not statistically significant
+   0.291 Late arm has higher estimated odds - Not statistically significant
+   0.230 Late arm has higher estimated odds - Not statistically significant
+   0.218 Late arm has higher estimated odds - Not statistically significant
+
+fit diagnostics summary:
+                            model_id fits_ok warnings_n errors_n singular_n
+                           crude_glm       5         NA       NA          0
+                            main_glm       5         NA       NA          0
+ main_hospital_random_intercept_glmm       5         NA       NA          0
+                support_expanded_glm       5         NA       NA          0
+                rare_comorbidity_glm       5         NA       NA          0
+
+interpretation:
+All point estimates are above 1, but all confidence intervals include 1.
+This supports a directionally higher estimated mortality odds in the 3-12h arm, without statistical significance in this eICU directional validation.
+
+outputs:
+D:/codex 工作目录/TTE目标模拟实验/TTE正式实验/eICU正式流程_formal_v1/outputs/results/eicu_formal_v1_arm2_main_results_table.csv
+D:/codex 工作目录/TTE目标模拟实验/TTE正式实验/eICU正式流程_formal_v1/outputs/results/eicu_formal_v1_arm2_main_results_table_readable.csv
+D:/codex 工作目录/TTE目标模拟实验/TTE正式实验/eICU正式流程_formal_v1/outputs/results/eicu_formal_v1_arm2_forest_plot.png
+D:/codex 工作目录/TTE目标模拟实验/TTE正式实验/eICU正式流程_formal_v1/outputs/results/eicu_formal_v1_arm2_forest_plot.pdf
+
+combined outputs:
+D:/codex 工作目录/TTE目标模拟实验/TTE正式实验/eICU正式流程_formal_v1/outputs/results/eicu_formal_v1_combined_results_table.csv
+D:/codex 工作目录/TTE目标模拟实验/TTE正式实验/eICU正式流程_formal_v1/outputs/results/eicu_formal_v1_combined_results_table_readable.csv
+D:/codex 工作目录/TTE目标模拟实验/TTE正式实验/eICU正式流程_formal_v1/outputs/results/eicu_formal_v1_combined_forest_plot.png
+D:/codex 工作目录/TTE目标模拟实验/TTE正式实验/eICU正式流程_formal_v1/outputs/results/eicu_formal_v1_combined_forest_plot.pdf

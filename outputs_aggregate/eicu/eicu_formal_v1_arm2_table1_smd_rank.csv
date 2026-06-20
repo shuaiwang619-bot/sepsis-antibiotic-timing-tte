@@ -1,0 +1,16 @@
+"section","variable","abs_smd"
+"Comorbidity","Metastatic cancer",0.084
+"Demographics","Age, years",0.074
+"Demographics","Ethnicity",0.068
+"Admission","Unit admission source",0.067
+"Admission","Unit type",0.066
+"Comorbidity","Cirrhosis",0.058
+"Comorbidity","Diabetes",0.053
+"Severity","Dialysis",0.053
+"Comorbidity","Hepatic failure",0.053
+"Comorbidity","Immunosuppression",0.053
+"Severity","Intubated",0.053
+"Severity","Mechanical ventilation",0.053
+"Demographics","Sex",0.031
+"Severity","APACHE IVa score",0.024
+"Hospital reporting","Hospital timing-volume bucket",0.024

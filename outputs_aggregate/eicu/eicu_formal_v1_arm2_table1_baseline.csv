@@ -1,0 +1,52 @@
+"section","variable","level","type","overall","early_0_3h","late_3_12h","nonmissing_overall_n","missing_overall_n","missing_overall_pct","smd","abs_smd","p_value"
+"Cohort","N","","count","3225","2046","1179",3225,0,0,,,
+"Demographics","Age, years","","continuous","66.0 [55.0, 78.0]; missing 0 (0.0%)","66.5 [55.0, 78.0]; missing 0 (0.0%)","65.0 [53.0, 78.0]; missing 0 (0.0%)",3225,0,0,-0.074,0.074,0.0723818780097445
+"Severity","APACHE IVa score","","continuous","71.0 [54.0, 92.0]; missing 350 (10.9%)","71.0 [54.0, 92.0]; missing 228 (11.1%)","72.0 [54.0, 92.0]; missing 122 (10.3%)",2875,350,10.85,-0.024,0.024,0.927539506764124
+"Demographics","Sex","Female","categorical","1540 (47.8%)","975 (47.7%)","565 (47.9%)",3224,1,0.03,0.005,0.005,0.742904344720744
+"Demographics","Sex","Male","categorical","1684 (52.2%)","1070 (52.3%)","614 (52.1%)",3224,1,0.03,-0.004,0.004,0.742904344720744
+"Demographics","Sex","Missing","categorical","1 (0.0%)","1 (0.0%)","0 (0.0%)",3224,1,0.03,-0.031,0.031,0.742904344720744
+"Demographics","Ethnicity","Caucasian","categorical","2640 (81.9%)","1678 (82.0%)","962 (81.6%)",3184,41,1.27,-0.011,0.011,0.388172848125743
+"Demographics","Ethnicity","African American","categorical","222 (6.9%)","137 (6.7%)","85 (7.2%)",3184,41,1.27,0.02,0.02,0.388172848125743
+"Demographics","Ethnicity","Hispanic","categorical","49 (1.5%)","30 (1.5%)","19 (1.6%)",3184,41,1.27,0.012,0.012,0.388172848125743
+"Demographics","Ethnicity","Asian","categorical","37 (1.1%)","24 (1.2%)","13 (1.1%)",3184,41,1.27,-0.007,0.007,0.388172848125743
+"Demographics","Ethnicity","Native American","categorical","67 (2.1%)","35 (1.7%)","32 (2.7%)",3184,41,1.27,0.068,0.068,0.388172848125743
+"Demographics","Ethnicity","Other/Unknown","categorical","169 (5.2%)","112 (5.5%)","57 (4.8%)",3184,41,1.27,-0.029,0.029,0.388172848125743
+"Demographics","Ethnicity","Missing","categorical","41 (1.3%)","30 (1.5%)","11 (0.9%)",3184,41,1.27,-0.049,0.049,0.388172848125743
+"Admission","Unit admission source","Emergency Department","categorical","1703 (52.8%)","1060 (51.8%)","643 (54.5%)",3225,0,0,0.055,0.055,0.123408823703963
+"Admission","Unit admission source","Floor/Acute Care","categorical","475 (14.7%)","318 (15.5%)","157 (13.3%)",3225,0,0,-0.063,0.063,0.123408823703963
+"Admission","Unit admission source","Transfer","categorical","299 (9.3%)","179 (8.7%)","120 (10.2%)",3225,0,0,0.049,0.049,0.123408823703963
+"Admission","Unit admission source","Direct Admit","categorical","594 (18.4%)","396 (19.4%)","198 (16.8%)",3225,0,0,-0.067,0.067,0.123408823703963
+"Admission","Unit admission source","Perioperative","categorical","93 (2.9%)","55 (2.7%)","38 (3.2%)",3225,0,0,0.032,0.032,0.123408823703963
+"Admission","Unit admission source","Other","categorical","61 (1.9%)","38 (1.9%)","23 (2.0%)",3225,0,0,0.007,0.007,0.123408823703963
+"Admission","Unit type","Med-Surg ICU","categorical","2229 (69.1%)","1428 (69.8%)","801 (67.9%)",3225,0,0,-0.04,0.04,0.124660736841812
+"Admission","Unit type","MICU","categorical","364 (11.3%)","226 (11.0%)","138 (11.7%)",3225,0,0,0.021,0.021,0.124660736841812
+"Admission","Unit type","SICU","categorical","124 (3.8%)","88 (4.3%)","36 (3.1%)",3225,0,0,-0.066,0.066,0.124660736841812
+"Admission","Unit type","Cardiac/Surgical Cardiac ICU","categorical","405 (12.6%)","246 (12.0%)","159 (13.5%)",3225,0,0,0.044,0.044,0.124660736841812
+"Admission","Unit type","Other ICU","categorical","103 (3.2%)","58 (2.8%)","45 (3.8%)",3225,0,0,0.055,0.055,0.124660736841812
+"Hospital reporting","Hospital timing-volume bucket",">30","categorical","2322 (72.0%)","1465 (71.6%)","857 (72.7%)",3225,0,0,0.024,0.024,0.787242676496842
+"Hospital reporting","Hospital timing-volume bucket","11-30","categorical","630 (19.5%)","404 (19.7%)","226 (19.2%)",3225,0,0,-0.015,0.015,0.787242676496842
+"Hospital reporting","Hospital timing-volume bucket","1-10","categorical","273 (8.5%)","177 (8.7%)","96 (8.1%)",3225,0,0,-0.018,0.018,0.787242676496842
+"Severity","Mechanical ventilation","No","categorical","2025 (62.8%)","1277 (62.4%)","748 (63.4%)",3155,70,2.17,0.021,0.021,0.355529513981169
+"Severity","Mechanical ventilation","Yes","categorical","1130 (35.0%)","719 (35.1%)","411 (34.9%)",3155,70,2.17,-0.006,0.006,0.355529513981169
+"Severity","Mechanical ventilation","Missing","categorical","70 (2.2%)","50 (2.4%)","20 (1.7%)",3155,70,2.17,-0.053,0.053,0.355529513981169
+"Severity","Intubated","No","categorical","2368 (73.4%)","1501 (73.4%)","867 (73.5%)",3155,70,2.17,0.004,0.004,0.362585174553819
+"Severity","Intubated","Yes","categorical","787 (24.4%)","495 (24.2%)","292 (24.8%)",3155,70,2.17,0.013,0.013,0.362585174553819
+"Severity","Intubated","Missing","categorical","70 (2.2%)","50 (2.4%)","20 (1.7%)",3155,70,2.17,-0.053,0.053,0.362585174553819
+"Severity","Dialysis","No","categorical","3044 (94.4%)","1927 (94.2%)","1117 (94.7%)",3155,70,2.17,0.024,0.024,0.362728788855869
+"Severity","Dialysis","Yes","categorical","111 (3.4%)","69 (3.4%)","42 (3.6%)",3155,70,2.17,0.01,0.01,0.362728788855869
+"Severity","Dialysis","Missing","categorical","70 (2.2%)","50 (2.4%)","20 (1.7%)",3155,70,2.17,-0.053,0.053,0.362728788855869
+"Comorbidity","Diabetes","No","categorical","2354 (73.0%)","1481 (72.4%)","873 (74.0%)",3155,70,2.17,0.038,0.038,0.292446706251072
+"Comorbidity","Diabetes","Yes","categorical","801 (24.8%)","515 (25.2%)","286 (24.3%)",3155,70,2.17,-0.021,0.021,0.292446706251072
+"Comorbidity","Diabetes","Missing","categorical","70 (2.2%)","50 (2.4%)","20 (1.7%)",3155,70,2.17,-0.053,0.053,0.292446706251072
+"Comorbidity","Cirrhosis","No","categorical","3042 (94.3%)","1920 (93.8%)","1122 (95.2%)",3155,70,2.17,0.058,0.058,0.249928153718314
+"Comorbidity","Cirrhosis","Yes","categorical","113 (3.5%)","76 (3.7%)","37 (3.1%)",3155,70,2.17,-0.032,0.032,0.249928153718314
+"Comorbidity","Cirrhosis","Missing","categorical","70 (2.2%)","50 (2.4%)","20 (1.7%)",3155,70,2.17,-0.053,0.053,0.249928153718314
+"Comorbidity","Immunosuppression","No","categorical","2967 (92.0%)","1880 (91.9%)","1087 (92.2%)",3155,70,2.17,0.011,0.011,0.336493937726462
+"Comorbidity","Immunosuppression","Yes","categorical","188 (5.8%)","116 (5.7%)","72 (6.1%)",3155,70,2.17,0.019,0.019,0.336493937726462
+"Comorbidity","Immunosuppression","Missing","categorical","70 (2.2%)","50 (2.4%)","20 (1.7%)",3155,70,2.17,-0.053,0.053,0.336493937726462
+"Comorbidity","Hepatic failure","No","categorical","3070 (95.2%)","1941 (94.9%)","1129 (95.8%)",3155,70,2.17,0.042,0.042,0.359490051303307
+"Comorbidity","Hepatic failure","Yes","categorical","85 (2.6%)","55 (2.7%)","30 (2.5%)",3155,70,2.17,-0.009,0.009,0.359490051303307
+"Comorbidity","Hepatic failure","Missing","categorical","70 (2.2%)","50 (2.4%)","20 (1.7%)",3155,70,2.17,-0.053,0.053,0.359490051303307
+"Comorbidity","Metastatic cancer","No","categorical","3041 (94.3%)","1915 (93.6%)","1126 (95.5%)",3155,70,2.17,0.084,0.084,0.0796238883387798
+"Comorbidity","Metastatic cancer","Yes","categorical","114 (3.5%)","81 (4.0%)","33 (2.8%)",3155,70,2.17,-0.064,0.064,0.0796238883387798
+"Comorbidity","Metastatic cancer","Missing","categorical","70 (2.2%)","50 (2.4%)","20 (1.7%)",3155,70,2.17,-0.053,0.053,0.0796238883387798

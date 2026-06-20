@@ -1,0 +1,6 @@
+"model_id","model_label","contrast_label","or","or_low","or_high","or_ci","p_value","p_value_fmt","direction","statistical_note","m_used"
+"crude_glm","Crude logistic","3-12h vs 0-3h",1.07714167339528,0.901915802665235,1.28641075046716,"1.08 (0.90-1.29)",0.412024061541094,"0.412","Late arm has higher estimated odds","Not statistically significant",5
+"main_glm","Adjusted logistic","3-12h vs 0-3h",1.12208905502964,0.920004474388297,1.3685627434089,"1.12 (0.92-1.37)",0.255533171115281,"0.256","Late arm has higher estimated odds","Not statistically significant",5
+"main_hospital_random_intercept_glmm","Adjusted logistic + hospital random intercept","3-12h vs 0-3h",1.11405460223527,0.911502214363221,1.36161781859042,"1.11 (0.91-1.36)",0.291456847169641,"0.291","Late arm has higher estimated odds","Not statistically significant",5
+"support_expanded_glm","Support-expanded sensitivity","3-12h vs 0-3h",1.12977457760377,0.925659951887796,1.37889793503188,"1.13 (0.93-1.38)",0.230073850380072,"0.230","Late arm has higher estimated odds","Not statistically significant",5
+"rare_comorbidity_glm","Rare-comorbidity sensitivity","3-12h vs 0-3h",1.13377670595822,0.928647636455915,1.38421675618457,"1.13 (0.93-1.38)",0.217571712885264,"0.218","Late arm has higher estimated odds","Not statistically significant",5

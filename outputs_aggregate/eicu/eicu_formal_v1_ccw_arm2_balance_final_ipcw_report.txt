@@ -1,0 +1,32 @@
+﻿eICU formal_v1 step 11 arm2 CCW/IPCW covariate balance
+weights_file: [local path omitted]
+weight_col: final_ipcw
+
+balance summary:
+                              variable levels_or_rows mean_abs_smd max_abs_smd
+                                <char>          <int>        <num>       <num>
+ 1:                                ALL            235  0.013183705 0.064918938
+ 2:             metastaticcancer_model             10  0.064471879 0.064918938
+ 3:                    cirrhosis_model             10  0.042362409 0.043312065
+ 4:            unit_admit_source_group             30  0.017750721 0.031011827
+ 5:                         vent_model             10  0.019587232 0.027152452
+ 6:                      gender_factor             15  0.008505052 0.024895003
+ 7:                     dialysis_model             10  0.009102064 0.019597310
+ 8:            immunosuppression_model             10  0.017121245 0.018366860
+ 9:               hepaticfailure_model             10  0.014643478 0.015840663
+10:                    unit_type_group             25  0.006462563 0.011969097
+11:                    ethnicity_group             35  0.007059423 0.010081747
+12:   hosp_window_volume_bucket_factor             15  0.006491343 0.008333436
+13:                    intubated_model             10  0.004428042 0.008071788
+14:                          age_model              5  0.007576699 0.007746470
+15:             apache_score_iva_model              5  0.002651649 0.007604723
+16: apache_score_iva_model_missing_ind             10  0.004975183 0.005354909
+17:                     diabetes_model             10  0.002826419 0.004285119
+18:         diabetes_model_missing_ind             10  0.001981947 0.002768081
+19:        hosp_zero_abx_reporting_ind              5          NaN          NA
+
+notes:
+Balance is calculated among adherent clones only.
+For categorical variables, the summary reports the maximum absolute SMD across levels.
+Weights are final stabilized IPCW from Step 08 unless another weight column is passed.
+

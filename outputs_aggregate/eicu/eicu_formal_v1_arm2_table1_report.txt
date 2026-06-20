@@ -1,0 +1,71 @@
+eICU formal_v1 arm2 Table 1 report
+input: D:/codex 工作目录/TTE目标模拟实验/TTE正式实验/eICU正式流程_formal_v1/outputs/wide_tables/eicu_formal_v1_arm2_mice_input.csv
+
+analysis set:
+N: 3225
+distinct stays: 3225
+hospitals: 121
+0-3h N: 2046
+3-12h N: 1179
+
+outcome check, descriptive only:
+ arm2_abx_timing  death_30d_inhosp
+            0-3h 404/2046 (19.75%)
+           3-12h 247/1179 (20.95%)
+
+largest baseline imbalance by max absolute SMD:
+            section                      variable abs_smd
+        Comorbidity             Metastatic cancer   0.084
+       Demographics                    Age, years   0.074
+       Demographics                     Ethnicity   0.068
+          Admission         Unit admission source   0.067
+          Admission                     Unit type   0.066
+        Comorbidity                     Cirrhosis   0.058
+        Comorbidity                      Diabetes   0.053
+           Severity                      Dialysis   0.053
+        Comorbidity               Hepatic failure   0.053
+        Comorbidity             Immunosuppression   0.053
+           Severity                     Intubated   0.053
+           Severity        Mechanical ventilation   0.053
+       Demographics                           Sex   0.031
+           Severity              APACHE IVa score   0.024
+ Hospital reporting Hospital timing-volume bucket   0.024
+
+highest missingness:
+                         variable missing_n missing_pct early_missing_n
+           apache_score_iva_model       350       10.85             228
+                       vent_model        70        2.17              50
+                  intubated_model        70        2.17              50
+                   dialysis_model        70        2.17              50
+                   diabetes_model        70        2.17              50
+                  cirrhosis_model        70        2.17              50
+          immunosuppression_model        70        2.17              50
+             hepaticfailure_model        70        2.17              50
+           metastaticcancer_model        70        2.17              50
+                  ethnicity_group        41        1.27              30
+                    gender_factor         1        0.03               1
+                        age_model         0        0.00               0
+          unit_admit_source_group         0        0.00               0
+                  unit_type_group         0        0.00               0
+ hosp_window_volume_bucket_factor         0        0.00               0
+ early_missing_pct late_missing_n late_missing_pct
+             11.14            122            10.35
+              2.44             20             1.70
+              2.44             20             1.70
+              2.44             20             1.70
+              2.44             20             1.70
+              2.44             20             1.70
+              2.44             20             1.70
+              2.44             20             1.70
+              2.44             20             1.70
+              1.47             11             0.93
+              0.05              0             0.00
+              0.00              0             0.00
+              0.00              0             0.00
+              0.00              0             0.00
+              0.00              0             0.00
+
+outputs:
+D:/codex 工作目录/TTE目标模拟实验/TTE正式实验/eICU正式流程_formal_v1/outputs/tables/eicu_formal_v1_arm2_table1_baseline.csv
+D:/codex 工作目录/TTE目标模拟实验/TTE正式实验/eICU正式流程_formal_v1/outputs/tables/eicu_formal_v1_arm2_table1_missingness.csv
+D:/codex 工作目录/TTE目标模拟实验/TTE正式实验/eICU正式流程_formal_v1/outputs/tables/eicu_formal_v1_arm2_table1_smd_rank.csv
