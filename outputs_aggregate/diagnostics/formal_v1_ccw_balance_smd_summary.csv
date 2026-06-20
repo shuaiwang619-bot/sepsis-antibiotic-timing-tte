@@ -1,0 +1,101 @@
+sample,weighting,variable_role,display_label,m,mean_abs_smd,max_abs_smd,n_gt_0_1,n_gt_0_2
+adherent_only,ipcw_trunc_p01_p99,auxiliary,Baseline mean BP missing,15,0.0435292200492441,0.0657760309663228,0,0
+adherent_only,ipcw_trunc_p01_p99,auxiliary,Baseline mean BP,15,0.0333460918076828,0.0566717388360997,0,0
+adherent_only,ipcw_trunc_p01_p99,auxiliary,Baseline mean BP extreme/invalid,15,0.0273711977604742,0.040324750399156,0,0
+adherent_only,ipcw_trunc_p01_p99,main,Race group: UNKNOWN,15,0.0469769146804983,0.0705648471059275,0,0
+adherent_only,ipcw_trunc_p01_p99,main,Baseline shock,15,0.0347787583869112,0.052186679841482,0,0
+adherent_only,ipcw_trunc_p01_p99,main,Race group: WHITE,15,0.0314036299291795,0.0471518031670979,0,0
+adherent_only,ipcw_trunc_p01_p99,main,Admission type: EMERGENCY,15,0.0288214675956008,0.0432733037274278,0,0
+adherent_only,ipcw_trunc_p01_p99,main,Admission type: URGENT,15,0.0280394035402779,0.0421082011537106,0,0
+adherent_only,ipcw_trunc_p01_p99,main,Admission type: ELECTIVE_SURGICAL,15,0.0224016542162244,0.0336300183859147,0,0
+adherent_only,ipcw_trunc_p01_p99,main,Sex: M,15,0.0194616393404682,0.0292488828606552,0,0
+adherent_only,ipcw_trunc_p01_p99,main,Sex: F,15,0.0194616393404682,0.0292488828606551,0,0
+adherent_only,ipcw_trunc_p01_p99,main,Baseline SOFA,15,0.0172907055744504,0.0262524729740344,0,0
+adherent_only,ipcw_trunc_p01_p99,main,Age,15,0.0170797059183559,0.0258534777668003,0,0
+adherent_only,ipcw_trunc_p01_p99,main,Charlson comorbidity index,15,0.0157582330603781,0.0237675230287867,0,0
+adherent_only,ipcw_trunc_p01_p99,main,Race group: ASIAN,15,0.0138176783220768,0.0207488100415839,0,0
+adherent_only,ipcw_trunc_p01_p99,main,Baseline SOFA missing,15,0.0115937114165878,0.0198900627703071,0,0
+adherent_only,ipcw_trunc_p01_p99,main,Race group: BLACK,15,0.0116924486647567,0.0175662293266899,0,0
+adherent_only,ipcw_trunc_p01_p99,main,Race group: OTHER,15,0.0102350282002308,0.0153583477367163,0,0
+adherent_only,ipcw_trunc_p01_p99,main,Admission type: OBSERVATION,15,0.00523005413450786,0.00784927545001123,0,0
+adherent_only,ipcw_trunc_p01_p99,main,Race group: HISPANIC,15,0.00344411435737408,0.005266924629774,0,0
+adherent_only,ipcw_trunc_p05_p95,auxiliary,Baseline mean BP missing,15,0.0451690103314587,0.0682377745555055,0,0
+adherent_only,ipcw_trunc_p05_p95,auxiliary,Baseline mean BP,15,0.0321337157922786,0.0560708380940575,0,0
+adherent_only,ipcw_trunc_p05_p95,auxiliary,Baseline mean BP extreme/invalid,15,0.025863791447486,0.0381548417599587,0,0
+adherent_only,ipcw_trunc_p05_p95,main,Baseline shock,15,0.0575847784155311,0.0864479818698098,0,0
+adherent_only,ipcw_trunc_p05_p95,main,Race group: UNKNOWN,15,0.0532202088459317,0.0799164900963126,0,0
+adherent_only,ipcw_trunc_p05_p95,main,Admission type: EMERGENCY,15,0.047463192035085,0.0713248451546172,0,0
+adherent_only,ipcw_trunc_p05_p95,main,Admission type: URGENT,15,0.0398362257398132,0.0598053540925216,0,0
+adherent_only,ipcw_trunc_p05_p95,main,Admission type: ELECTIVE_SURGICAL,15,0.0344239385743374,0.0519980921057197,0,0
+adherent_only,ipcw_trunc_p05_p95,main,Race group: WHITE,15,0.0324545356469542,0.0486964088540112,0,0
+adherent_only,ipcw_trunc_p05_p95,main,Age,15,0.0294666620358172,0.0445329897492884,0,0
+adherent_only,ipcw_trunc_p05_p95,main,Charlson comorbidity index,15,0.0292380467925922,0.0435389267120686,0,0
+adherent_only,ipcw_trunc_p05_p95,main,Sex: F,15,0.0223959259938273,0.0336288104719705,0,0
+adherent_only,ipcw_trunc_p05_p95,main,Sex: M,15,0.0223959259938272,0.0336288104719705,0,0
+adherent_only,ipcw_trunc_p05_p95,main,Baseline SOFA,15,0.0190782344862608,0.0290750177453023,0,0
+adherent_only,ipcw_trunc_p05_p95,main,Race group: ASIAN,15,0.0150318169232984,0.022573159712535,0,0
+adherent_only,ipcw_trunc_p05_p95,main,Baseline SOFA missing,15,0.0126947074008818,0.0214615201489378,0,0
+adherent_only,ipcw_trunc_p05_p95,main,Race group: BLACK,15,0.0125295924147114,0.0188025129267828,0,0
+adherent_only,ipcw_trunc_p05_p95,main,Race group: OTHER,15,0.0117003605087852,0.0175582671589498,0,0
+adherent_only,ipcw_trunc_p05_p95,main,Admission type: OBSERVATION,15,0.00992861386509074,0.014903475800478,0,0
+adherent_only,ipcw_trunc_p05_p95,main,Race group: HISPANIC,15,0.00252964009361727,0.00388212634841114,0,0
+adherent_only,ipcw_weighted_adherent,auxiliary,Baseline mean BP missing,15,0.042924938025582,0.0648582548608642,0,0
+adherent_only,ipcw_weighted_adherent,auxiliary,Baseline mean BP,15,0.0325496357448142,0.0540369581340525,0,0
+adherent_only,ipcw_weighted_adherent,auxiliary,Baseline mean BP extreme/invalid,15,0.0271942868472109,0.0400840130453569,0,0
+adherent_only,ipcw_weighted_adherent,main,Race group: UNKNOWN,15,0.0452632764939702,0.0679932283201855,0,0
+adherent_only,ipcw_weighted_adherent,main,Race group: WHITE,15,0.0312341287823042,0.0468753493829868,0,0
+adherent_only,ipcw_weighted_adherent,main,Admission type: ELECTIVE_SURGICAL,15,0.0298753801943227,0.044826544345606,0,0
+adherent_only,ipcw_weighted_adherent,main,Admission type: URGENT,15,0.0256609487870456,0.0385326857796065,0,0
+adherent_only,ipcw_weighted_adherent,main,Admission type: EMERGENCY,15,0.0241972625170305,0.036329335968742,0,0
+adherent_only,ipcw_weighted_adherent,main,Baseline shock,15,0.0234416557133603,0.0351742077162364,0,0
+adherent_only,ipcw_weighted_adherent,main,Sex: F,15,0.0195247234066585,0.0293379345595711,0,0
+adherent_only,ipcw_weighted_adherent,main,Sex: M,15,0.0195247234066585,0.0293379345595711,0,0
+adherent_only,ipcw_weighted_adherent,main,Baseline SOFA,15,0.0170918126809758,0.0258505638768831,0,0
+adherent_only,ipcw_weighted_adherent,main,Charlson comorbidity index,15,0.0135893292702904,0.0204674557446233,0,0
+adherent_only,ipcw_weighted_adherent,main,Baseline SOFA missing,15,0.0113997584036091,0.0199618275414929,0,0
+adherent_only,ipcw_weighted_adherent,main,Race group: ASIAN,15,0.0132158656647622,0.0198504842228716,0,0
+adherent_only,ipcw_weighted_adherent,main,Age,15,0.0128963297846276,0.019526143507709,0,0
+adherent_only,ipcw_weighted_adherent,main,Race group: BLACK,15,0.012172099867516,0.018286541907628,0,0
+adherent_only,ipcw_weighted_adherent,main,Race group: OTHER,15,0.0109469110471133,0.016431428116957,0,0
+adherent_only,ipcw_weighted_adherent,main,Admission type: OBSERVATION,15,0.00517467552022508,0.00777101927071073,0,0
+adherent_only,ipcw_weighted_adherent,main,Race group: HISPANIC,15,0.00316361478172251,0.00481054230689588,0,0
+adherent_only,unweighted_adherent,auxiliary,Baseline mean BP missing,15,0.0631518473517832,0.0946609136676379,0,0
+adherent_only,unweighted_adherent,auxiliary,Baseline mean BP,15,0.0140380623087193,0.0268811776606868,0,0
+adherent_only,unweighted_adherent,auxiliary,Baseline mean BP extreme/invalid,15,0.00624480380728406,0.00935709561991696,0,0
+adherent_only,unweighted_adherent,main,Admission type: EMERGENCY,15,0.543313413283645,0.825145802454556,15,10
+adherent_only,unweighted_adherent,main,Admission type: URGENT,15,0.463383801551119,0.697564604138584,15,15
+adherent_only,unweighted_adherent,main,Admission type: ELECTIVE_SURGICAL,15,0.294632994866797,0.436886215554289,15,10
+adherent_only,unweighted_adherent,main,Race group: UNKNOWN,15,0.152599002205453,0.228874371296763,10,5
+adherent_only,unweighted_adherent,main,Charlson comorbidity index,15,0.122914458873081,0.183104301197131,5,0
+adherent_only,unweighted_adherent,main,Age,15,0.11786123451341,0.178068571703883,10,0
+adherent_only,unweighted_adherent,main,Baseline SOFA,15,0.116299982999506,0.173928962097958,10,0
+adherent_only,unweighted_adherent,main,Race group: BLACK,15,0.0962078805956314,0.144074107168298,5,0
+adherent_only,unweighted_adherent,main,Admission type: OBSERVATION,15,0.0762031181285062,0.114222638874956,5,0
+adherent_only,unweighted_adherent,main,Race group: WHITE,15,0.0613940049684141,0.0921075124652874,0,0
+adherent_only,unweighted_adherent,main,Baseline shock,15,0.0545952359625079,0.081892332850237,0,0
+adherent_only,unweighted_adherent,main,Sex: F,15,0.0441482065797899,0.0662254166399576,0,0
+adherent_only,unweighted_adherent,main,Sex: M,15,0.0441482065797899,0.0662254166399576,0,0
+adherent_only,unweighted_adherent,main,Race group: ASIAN,15,0.0339645757055839,0.0509087768908757,0,0
+adherent_only,unweighted_adherent,main,Race group: OTHER,15,0.020329101607139,0.0304874797353201,0,0
+adherent_only,unweighted_adherent,main,Baseline SOFA missing,15,0.01862483659091,0.0278317724903346,0,0
+adherent_only,unweighted_adherent,main,Race group: HISPANIC,15,0.0167531116963517,0.0251251821188519,0,0
+all_clones_sanity,unweighted_all_clones,auxiliary,Baseline mean BP,15,0,0,0,0
+all_clones_sanity,unweighted_all_clones,auxiliary,Baseline mean BP missing,15,0,0,0,0
+all_clones_sanity,unweighted_all_clones,auxiliary,Baseline mean BP extreme/invalid,15,0,0,0,0
+all_clones_sanity,unweighted_all_clones,main,Age,15,0,0,0,0
+all_clones_sanity,unweighted_all_clones,main,Charlson comorbidity index,15,0,0,0,0
+all_clones_sanity,unweighted_all_clones,main,Baseline SOFA,15,0,0,0,0
+all_clones_sanity,unweighted_all_clones,main,Baseline SOFA missing,15,0,0,0,0
+all_clones_sanity,unweighted_all_clones,main,Baseline shock,15,0,0,0,0
+all_clones_sanity,unweighted_all_clones,main,Sex: F,15,0,0,0,0
+all_clones_sanity,unweighted_all_clones,main,Sex: M,15,0,0,0,0
+all_clones_sanity,unweighted_all_clones,main,Race group: ASIAN,15,0,0,0,0
+all_clones_sanity,unweighted_all_clones,main,Race group: BLACK,15,0,0,0,0
+all_clones_sanity,unweighted_all_clones,main,Race group: HISPANIC,15,0,0,0,0
+all_clones_sanity,unweighted_all_clones,main,Race group: OTHER,15,0,0,0,0
+all_clones_sanity,unweighted_all_clones,main,Race group: UNKNOWN,15,0,0,0,0
+all_clones_sanity,unweighted_all_clones,main,Race group: WHITE,15,0,0,0,0
+all_clones_sanity,unweighted_all_clones,main,Admission type: ELECTIVE_SURGICAL,15,0,0,0,0
+all_clones_sanity,unweighted_all_clones,main,Admission type: EMERGENCY,15,0,0,0,0
+all_clones_sanity,unweighted_all_clones,main,Admission type: OBSERVATION,15,0,0,0,0
+all_clones_sanity,unweighted_all_clones,main,Admission type: URGENT,15,0,0,0,0

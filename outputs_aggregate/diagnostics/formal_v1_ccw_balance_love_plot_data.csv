@@ -1,0 +1,35 @@
+display_label,weighting,mean_abs_smd,max_abs_smd,n_gt_0_1,n_gt_0_2
+Race group: UNKNOWN,ipcw_weighted_adherent,0.0452632764939702,0.0679932283201855,0,0
+Race group: WHITE,ipcw_weighted_adherent,0.0312341287823042,0.0468753493829868,0,0
+Admission type: ELECTIVE_SURGICAL,ipcw_weighted_adherent,0.0298753801943227,0.044826544345606,0,0
+Admission type: URGENT,ipcw_weighted_adherent,0.0256609487870456,0.0385326857796065,0,0
+Admission type: EMERGENCY,ipcw_weighted_adherent,0.0241972625170305,0.036329335968742,0,0
+Baseline shock,ipcw_weighted_adherent,0.0234416557133603,0.0351742077162364,0,0
+Sex: F,ipcw_weighted_adherent,0.0195247234066585,0.0293379345595711,0,0
+Sex: M,ipcw_weighted_adherent,0.0195247234066585,0.0293379345595711,0,0
+Baseline SOFA,ipcw_weighted_adherent,0.0170918126809758,0.0258505638768831,0,0
+Charlson comorbidity index,ipcw_weighted_adherent,0.0135893292702904,0.0204674557446233,0,0
+Baseline SOFA missing,ipcw_weighted_adherent,0.0113997584036091,0.0199618275414929,0,0
+Race group: ASIAN,ipcw_weighted_adherent,0.0132158656647622,0.0198504842228716,0,0
+Age,ipcw_weighted_adherent,0.0128963297846276,0.019526143507709,0,0
+Race group: BLACK,ipcw_weighted_adherent,0.012172099867516,0.018286541907628,0,0
+Race group: OTHER,ipcw_weighted_adherent,0.0109469110471133,0.016431428116957,0,0
+Admission type: OBSERVATION,ipcw_weighted_adherent,0.00517467552022508,0.00777101927071073,0,0
+Race group: HISPANIC,ipcw_weighted_adherent,0.00316361478172251,0.00481054230689588,0,0
+Admission type: EMERGENCY,unweighted_adherent,0.543313413283645,0.825145802454556,15,10
+Admission type: URGENT,unweighted_adherent,0.463383801551119,0.697564604138584,15,15
+Admission type: ELECTIVE_SURGICAL,unweighted_adherent,0.294632994866797,0.436886215554289,15,10
+Race group: UNKNOWN,unweighted_adherent,0.152599002205453,0.228874371296763,10,5
+Charlson comorbidity index,unweighted_adherent,0.122914458873081,0.183104301197131,5,0
+Age,unweighted_adherent,0.11786123451341,0.178068571703883,10,0
+Baseline SOFA,unweighted_adherent,0.116299982999506,0.173928962097958,10,0
+Race group: BLACK,unweighted_adherent,0.0962078805956314,0.144074107168298,5,0
+Admission type: OBSERVATION,unweighted_adherent,0.0762031181285062,0.114222638874956,5,0
+Race group: WHITE,unweighted_adherent,0.0613940049684141,0.0921075124652874,0,0
+Baseline shock,unweighted_adherent,0.0545952359625079,0.081892332850237,0,0
+Sex: F,unweighted_adherent,0.0441482065797899,0.0662254166399576,0,0
+Sex: M,unweighted_adherent,0.0441482065797899,0.0662254166399576,0,0
+Race group: ASIAN,unweighted_adherent,0.0339645757055839,0.0509087768908757,0,0
+Race group: OTHER,unweighted_adherent,0.020329101607139,0.0304874797353201,0,0
+Baseline SOFA missing,unweighted_adherent,0.01862483659091,0.0278317724903346,0,0
+Race group: HISPANIC,unweighted_adherent,0.0167531116963517,0.0251251821188519,0,0

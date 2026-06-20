@@ -1,0 +1,6 @@
+check,value,status
+final_ipcw_max_gt_10,FALSE,pass
+final_ipcw_p99_gt_5,FALSE,pass
+final_ipcw_pct_gt_5_gt_1pct,FALSE,pass
+continuous_common_p01_p99_width_nonpositive,FALSE,pass
+main_categorical_zero_count_arm,FALSE,pass
