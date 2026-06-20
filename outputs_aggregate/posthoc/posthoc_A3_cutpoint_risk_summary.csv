@@ -1,0 +1,7 @@
+analysis_id,subgroup,arm,cumulative_risk_30d,reference_arm,risk_difference_vs_reference,risk_ratio_vs_reference
+A3_cut_0_2_6_12,alternative cutpoints 0-2/2-6/6-12,0-2h,0.180764411524585,0-2h,0,1
+A3_cut_0_2_6_12,alternative cutpoints 0-2/2-6/6-12,2-6h,0.207124184727266,0-2h,0.0263597732026805,1.14582391026554
+A3_cut_0_2_6_12,alternative cutpoints 0-2/2-6/6-12,6-12h,0.219916290905077,0-2h,0.0391518793804919,1.21659063886798
+A3_cut_0_4_8_12,alternative cutpoints 0-4/4-8/8-12,0-4h,0.18704980889396,0-4h,0,1
+A3_cut_0_4_8_12,alternative cutpoints 0-4/4-8/8-12,4-8h,0.223159277933276,0-4h,0.0361094690393161,1.19304734598935
+A3_cut_0_4_8_12,alternative cutpoints 0-4/4-8/8-12,8-12h,0.231201916944539,0-4h,0.0441521080505796,1.23604465494624
