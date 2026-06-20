@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="300" viewBox="0 0 920 300">
+<rect width="100%" height="100%" fill="white"/>
+<style>text{font-family:Arial,Helvetica,sans-serif;letter-spacing:0}</style>
+<text x="20" y="22" font-size="9" font-weight="400" fill="#5A6877">Graphical abstract</text>
+<text x="20" y="50" font-size="22" font-weight="800" fill="#202A36">Earlier vs. later antibiotic initiation in ICU sepsis</text>
+<text x="20" y="68" font-size="11" font-weight="400" fill="#5A6877">MIMIC-IV target trial emulation with eICU directional exploration</text>
+<line x1="20" y1="74" x2="900" y2="74" stroke="#D7DEE8" stroke-width="1"/>
+<rect x="20" y="91" width="265" height="127" rx="10" fill="#F2F5FA" stroke="#3F5A94" stroke-width="2"/>
+<rect x="20" y="91" width="265" height="27" rx="10" fill="#3F5A94"/>
+<rect x="20" y="108" width="265" height="10" fill="#3F5A94"/>
+<text x="28" y="109" font-size="12" font-weight="800" fill="white">1</text>
+<text x="48" y="109" font-size="12" font-weight="800" fill="white">Clinical question</text>
+<rect x="327" y="91" width="265" height="127" rx="10" fill="#F1F7F3" stroke="#4D765D" stroke-width="2"/>
+<rect x="327" y="91" width="265" height="27" rx="10" fill="#4D765D"/>
+<rect x="327" y="108" width="265" height="10" fill="#4D765D"/>
+<text x="335" y="109" font-size="12" font-weight="800" fill="white">2</text>
+<text x="355" y="109" font-size="12" font-weight="800" fill="white">Target-trial emulation</text>
+<rect x="634" y="91" width="265" height="127" rx="10" fill="#FBF7EF" stroke="#A5752A" stroke-width="2"/>
+<rect x="634" y="91" width="265" height="27" rx="10" fill="#A5752A"/>
+<rect x="634" y="108" width="265" height="10" fill="#A5752A"/>
+<text x="642" y="109" font-size="12" font-weight="800" fill="white">3</text>
+<text x="662" y="109" font-size="12" font-weight="800" fill="white">Main finding</text>
+<text x="38" y="138" font-size="12" font-weight="800" fill="#202A36">Suspected-infection t0</text>
+<text x="38" y="158" font-size="12" font-weight="800" fill="#202A36">0-3 h vs 3-6 h vs 6-12 h</text>
+<text x="38" y="178" font-size="12" font-weight="800" fill="#202A36">30-day mortality</text>
+<text x="345" y="138" font-size="12" font-weight="800" fill="#202A36">MIMIC-IV primary analysis</text>
+<text x="345" y="159" font-size="12" font-weight="800" fill="#202A36">N = 18,953</text>
+<text x="345" y="180" font-size="12" font-weight="800" fill="#202A36">CCW/IPCW strategy emulation</text>
+<text x="650" y="138" font-size="12" font-weight="800" fill="#202A36">Compared with 0-3 h</text>
+<text x="650" y="163" font-size="17" font-weight="800" fill="#202A36">3-6 h: OR 1.21</text>
+<text x="650" y="186" font-size="17" font-weight="800" fill="#202A36">6-12 h: OR 1.29</text>
+<text x="650" y="207" font-size="12" font-weight="800" fill="#A5752A">6-12 vs 3-6 h: OR 1.06</text>
+<line x1="285" y1="154" x2="327" y2="154" stroke="#6B7A8C" stroke-width="2"/><polygon points="327,154 320,150 320,158" fill="#6B7A8C"/>
+<line x1="592" y1="154" x2="634" y2="154" stroke="#6B7A8C" stroke-width="2"/><polygon points="634,154 627,150 627,158" fill="#6B7A8C"/>
+<rect x="110" y="236" width="700" height="37" rx="10" fill="#F7FAFC" stroke="#6B7A8C" stroke-width="1"/>
+<text x="128" y="260" font-size="12" font-weight="800" fill="#202A36">Compared with 0-3 h, later windows had higher mortality; eICU was directionally compatible but uncertain.</text>
+<text x="20" y="294" font-size="8" font-weight="400" fill="#5A6877">OR point estimates; 95% CIs in manuscript. Association, not proof of causation.</text>
+</svg>

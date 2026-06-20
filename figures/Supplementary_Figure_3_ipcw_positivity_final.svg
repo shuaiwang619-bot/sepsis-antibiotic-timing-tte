@@ -1,0 +1,189 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="3200" height="2350" viewBox="0 0 3200 2350">
+<rect width="3200" height="2350" fill="white"/>
+<style>text{font-family:Arial,Helvetica,sans-serif;} .small{font-size:26px;}</style>
+<text x="130" y="90" font-size="54" font-weight="800" fill="#12324d" text-anchor="start">IPCW weight distribution and positivity diagnostics</text>
+<text x="130" y="140" font-size="31" font-weight="400" fill="#536575" text-anchor="start">MIMIC-IV clone-censor-weight analysis; final stabilized IPCW among strategy-adherent cloned observations.</text>
+<line x1="130" y1="170" x2="3070" y2="170" stroke="#8ca0af" stroke-width="4"/>
+<text x="140" y="245" font-size="38" font-weight="800" fill="#12324d" text-anchor="start">A</text>
+<text x="198" y="245" font-size="38" font-weight="700" fill="#12324d" text-anchor="start">Final IPCW weight distribution by strategy</text>
+<rect x="550" y="320" width="1810" height="555" rx="0" fill="#fbfcfd" stroke="#dfe7ec" stroke-width="2"/>
+<line x1="550" y1="320" x2="550" y2="875" stroke="#d7e1e8" stroke-width="2"/>
+<text x="550" y="917" font-size="28" font-weight="400" fill="#536575" text-anchor="middle">0</text>
+<line x1="841.9354838709678" y1="320" x2="841.9354838709678" y2="875" stroke="#7c93a5" stroke-width="3" stroke-dasharray="10 9"/>
+<text x="841.9354838709678" y="917" font-size="28" font-weight="400" fill="#536575" text-anchor="middle">1</text>
+<line x1="1133.8709677419356" y1="320" x2="1133.8709677419356" y2="875" stroke="#d7e1e8" stroke-width="2"/>
+<text x="1133.8709677419356" y="917" font-size="28" font-weight="400" fill="#536575" text-anchor="middle">2</text>
+<line x1="1425.8064516129032" y1="320" x2="1425.8064516129032" y2="875" stroke="#d7e1e8" stroke-width="2"/>
+<text x="1425.8064516129032" y="917" font-size="28" font-weight="400" fill="#536575" text-anchor="middle">3</text>
+<line x1="1717.741935483871" y1="320" x2="1717.741935483871" y2="875" stroke="#d7e1e8" stroke-width="2"/>
+<text x="1717.741935483871" y="917" font-size="28" font-weight="400" fill="#536575" text-anchor="middle">4</text>
+<line x1="2009.6774193548385" y1="320" x2="2009.6774193548385" y2="875" stroke="#d7e1e8" stroke-width="2"/>
+<text x="2009.6774193548385" y="917" font-size="28" font-weight="400" fill="#536575" text-anchor="middle">5</text>
+<line x1="2301.6129032258063" y1="320" x2="2301.6129032258063" y2="875" stroke="#d7e1e8" stroke-width="2"/>
+<text x="2301.6129032258063" y="917" font-size="28" font-weight="400" fill="#536575" text-anchor="middle">6</text>
+<text x="550" y="970" font-size="30" font-weight="600" fill="#536575" text-anchor="start">Final IPCW weight</text>
+<text x="150" y="295" font-size="30" font-weight="700" fill="#12324d" text-anchor="start">Strategy</text>
+<text x="2545" y="295" font-size="30" font-weight="700" fill="#12324d" text-anchor="end">n</text>
+<text x="2900" y="295" font-size="30" font-weight="700" fill="#12324d" text-anchor="end">Minimum ESS</text>
+<rect x="550" y="315" width="1810" height="100" rx="0" fill="#f7f9fb" stroke="none" stroke-width="1"/>
+<text x="150" y="376" font-size="34" font-weight="700" fill="#12324d" text-anchor="start">0-3 h</text>
+<text x="2545" y="376" font-size="30" font-weight="500" fill="#12324d" text-anchor="end">3,439</text>
+<text x="2900" y="376" font-size="30" font-weight="500" fill="#12324d" text-anchor="end">2,339 (68.0%)</text>
+<line x1="620.6383894875255" y1="365" x2="1171.2540975869829" y2="365" stroke="#263945" stroke-width="4"/>
+<line x1="620.6383894875255" y1="347" x2="620.6383894875255" y2="383" stroke="#263945" stroke-width="4"/>
+<line x1="1171.2540975869829" y1="347" x2="1171.2540975869829" y2="383" stroke="#263945" stroke-width="4"/>
+<rect x="686.7947217668631" y="343" width="256.0701456155542" height="44" rx="5" fill="#cfe1eb" stroke="#0f4c75" stroke-width="2"/>
+<circle cx="756.9213087539777" cy="365" r="12" fill="#0f4c75" stroke="white" stroke-width="3"/>
+<path d="M 1434.9577208121832 351 L 1448.9577208121832 365 L 1434.9577208121832 379 L 1420.9577208121832 365 Z" fill="white" stroke="#d7892d" stroke-width="3"/>
+<path d="M 1922.4218141850517 352 L 1948.4218141850517 378 M 1948.4218141850517 352 L 1922.4218141850517 378" stroke="#d7892d" stroke-width="4"/>
+<rect x="550" y="485" width="1810" height="100" rx="0" fill="white" stroke="none" stroke-width="1"/>
+<text x="150" y="546" font-size="34" font-weight="700" fill="#12324d" text-anchor="start">3-6 h</text>
+<text x="2545" y="546" font-size="30" font-weight="500" fill="#12324d" text-anchor="end">3,241</text>
+<text x="2900" y="546" font-size="30" font-weight="500" fill="#12324d" text-anchor="end">2,987 (92.2%)</text>
+<line x1="716.2706737643205" y1="535" x2="992.668989890258" y2="535" stroke="#263945" stroke-width="4"/>
+<line x1="716.2706737643205" y1="517" x2="716.2706737643205" y2="553" stroke="#263945" stroke-width="4"/>
+<line x1="992.668989890258" y1="517" x2="992.668989890258" y2="553" stroke="#263945" stroke-width="4"/>
+<rect x="775.0471051774078" y="513" width="83.93339535293944" height="44" rx="5" fill="#cfe1eb" stroke="#0f4c75" stroke-width="2"/>
+<circle cx="825.0418605293319" cy="535" r="12" fill="#0f4c75" stroke="white" stroke-width="3"/>
+<path d="M 1074.4189193859404 521 L 1088.4189193859404 535 L 1074.4189193859404 549 L 1060.4189193859404 535 Z" fill="white" stroke="#d7892d" stroke-width="3"/>
+<path d="M 1221.9798794952148 522 L 1247.9798794952148 548 M 1247.9798794952148 522 L 1221.9798794952148 548" stroke="#d7892d" stroke-width="4"/>
+<rect x="550" y="655" width="1810" height="100" rx="0" fill="#f7f9fb" stroke="none" stroke-width="1"/>
+<text x="150" y="716" font-size="34" font-weight="700" fill="#12324d" text-anchor="start">6-12 h</text>
+<text x="2545" y="716" font-size="30" font-weight="500" fill="#12324d" text-anchor="end">5,017</text>
+<text x="2900" y="716" font-size="30" font-weight="500" fill="#12324d" text-anchor="end">3,845 (76.6%)</text>
+<line x1="735.1431944497451" y1="705" x2="1236.7158585471836" y2="705" stroke="#263945" stroke-width="4"/>
+<line x1="735.1431944497451" y1="687" x2="735.1431944497451" y2="723" stroke="#263945" stroke-width="4"/>
+<line x1="1236.7158585471836" y1="687" x2="1236.7158585471836" y2="723" stroke="#263945" stroke-width="4"/>
+<rect x="770.4852961915711" y="683" width="68.99854213574793" height="44" rx="5" fill="#cfe1eb" stroke="#0f4c75" stroke-width="2"/>
+<circle cx="788.8757366531378" cy="705" r="12" fill="#0f4c75" stroke="white" stroke-width="3"/>
+<path d="M 1494.693407738659 691 L 1508.693407738659 705 L 1494.693407738659 719 L 1480.693407738659 705 Z" fill="white" stroke="#d7892d" stroke-width="3"/>
+<path d="M 2279.4357263263087 692 L 2305.4357263263087 718 M 2305.4357263263087 692 L 2279.4357263263087 718" stroke="#d7892d" stroke-width="4"/>
+<text x="555" y="282" font-size="27" font-weight="400" fill="#536575" text-anchor="start">Dashed line marks weight = 1.0</text>
+<line x1="660" y1="1035" x2="780" y2="1035" stroke="#263945" stroke-width="4"/>
+<text x="800" y="1045" font-size="27" font-weight="400" fill="#536575" text-anchor="start">5th-95th percentile</text>
+<rect x="1155" y="1015" width="90" height="40" rx="5" fill="#cfe1eb" stroke="#0f4c75" stroke-width="2"/>
+<text x="1265" y="1045" font-size="27" font-weight="400" fill="#536575" text-anchor="start">IQR</text>
+<circle cx="1445" cy="1035" r="12" fill="#0f4c75" stroke="white" stroke-width="3"/>
+<text x="1470" y="1045" font-size="27" font-weight="400" fill="#536575" text-anchor="start">Median</text>
+<path d="M 1680 1021 L 1694 1035 L 1680 1049 L 1666 1035 Z" fill="white" stroke="#d7892d" stroke-width="3"/>
+<text x="1710" y="1045" font-size="27" font-weight="400" fill="#536575" text-anchor="start">99th percentile</text>
+<path d="M 1995 1022 L 2021 1048 M 2021 1022 L 1995 1048" stroke="#d7892d" stroke-width="4"/>
+<text x="2040" y="1045" font-size="27" font-weight="400" fill="#536575" text-anchor="start">Maximum</text>
+<text x="140" y="1085" font-size="38" font-weight="800" fill="#12324d" text-anchor="start">B</text>
+<text x="198" y="1085" font-size="38" font-weight="700" fill="#12324d" text-anchor="start">Effective sample size retained</text>
+<rect x="380" y="1160" width="920" height="390" rx="0" fill="#fbfcfd" stroke="#dfe7ec" stroke-width="2"/>
+<line x1="380" y1="1160" x2="380" y2="1550" stroke="#d7e1e8" stroke-width="2"/>
+<text x="380" y="1593" font-size="28" font-weight="400" fill="#536575" text-anchor="middle">0</text>
+<line x1="610" y1="1160" x2="610" y2="1550" stroke="#d7e1e8" stroke-width="2"/>
+<text x="610" y="1593" font-size="28" font-weight="400" fill="#536575" text-anchor="middle">25</text>
+<line x1="840" y1="1160" x2="840" y2="1550" stroke="#d7e1e8" stroke-width="2"/>
+<text x="840" y="1593" font-size="28" font-weight="400" fill="#536575" text-anchor="middle">50</text>
+<line x1="1070" y1="1160" x2="1070" y2="1550" stroke="#d7e1e8" stroke-width="2"/>
+<text x="1070" y="1593" font-size="28" font-weight="400" fill="#536575" text-anchor="middle">75</text>
+<line x1="1300" y1="1160" x2="1300" y2="1550" stroke="#d7e1e8" stroke-width="2"/>
+<text x="1300" y="1593" font-size="28" font-weight="400" fill="#536575" text-anchor="middle">100</text>
+<text x="840" y="1641" font-size="28" font-weight="600" fill="#536575" text-anchor="middle">ESS as percentage of cloned observations</text>
+<text x="150" y="1216" font-size="32" font-weight="700" fill="#12324d" text-anchor="start">0-3 h</text>
+<rect x="380" y="1178" width="625.6819928552176" height="54" rx="4" fill="#9fc4d7" stroke="none" stroke-width="1"/>
+<text x="1023.6819928552176" y="1215" font-size="30" font-weight="700" fill="#12324d" text-anchor="start">68.0%</text>
+<text x="150" y="1336" font-size="32" font-weight="700" fill="#12324d" text-anchor="start">3-6 h</text>
+<rect x="380" y="1298" width="847.9029043125784" height="54" rx="4" fill="#6e9fba" stroke="none" stroke-width="1"/>
+<text x="1245.9029043125784" y="1335" font-size="30" font-weight="700" fill="#12324d" text-anchor="start">92.2%</text>
+<text x="150" y="1456" font-size="32" font-weight="700" fill="#12324d" text-anchor="start">6-12 h</text>
+<rect x="380" y="1418" width="705.1108373735897" height="54" rx="4" fill="#0f4c75" stroke="none" stroke-width="1"/>
+<text x="1103.1108373735897" y="1455" font-size="30" font-weight="700" fill="#12324d" text-anchor="start">76.6%</text>
+<text x="150" y="1605" font-size="26" font-weight="400" fill="#536575" text-anchor="start">Minimum ESS across 5 imputed datasets.</text>
+<text x="1580" y="1085" font-size="38" font-weight="800" fill="#12324d" text-anchor="start">C</text>
+<text x="1638" y="1085" font-size="38" font-weight="700" fill="#12324d" text-anchor="start">Extreme-weight frequency</text>
+<rect x="1830" y="1160" width="1070" height="390" rx="0" fill="#fbfcfd" stroke="#dfe7ec" stroke-width="2"/>
+<line x1="1830" y1="1160" x2="1830" y2="1550" stroke="#d7e1e8" stroke-width="2"/>
+<text x="1830" y="1593" font-size="28" font-weight="400" fill="#536575" text-anchor="middle">0</text>
+<line x1="2097.5" y1="1160" x2="2097.5" y2="1550" stroke="#d7e1e8" stroke-width="2"/>
+<text x="2097.5" y="1593" font-size="28" font-weight="400" fill="#536575" text-anchor="middle">2</text>
+<line x1="2365" y1="1160" x2="2365" y2="1550" stroke="#d7e1e8" stroke-width="2"/>
+<text x="2365" y="1593" font-size="28" font-weight="400" fill="#536575" text-anchor="middle">4</text>
+<line x1="2632.5" y1="1160" x2="2632.5" y2="1550" stroke="#d7e1e8" stroke-width="2"/>
+<text x="2632.5" y="1593" font-size="28" font-weight="400" fill="#536575" text-anchor="middle">6</text>
+<line x1="2900" y1="1160" x2="2900" y2="1550" stroke="#d7e1e8" stroke-width="2"/>
+<text x="2900" y="1593" font-size="28" font-weight="400" fill="#536575" text-anchor="middle">8</text>
+<text x="2365" y="1641" font-size="28" font-weight="600" fill="#536575" text-anchor="middle">Maximum percentage within arm across imputations</text>
+<text x="1590" y="1216" font-size="32" font-weight="700" fill="#12324d" text-anchor="start">0-3 h</text>
+<rect x="1830" y="1164" width="898.4079674323934" height="18" rx="2" fill="#0f4c75" stroke="none" stroke-width="1"/>
+<text x="1802" y="1182" font-size="22" font-weight="600" fill="#536575" text-anchor="end">&gt;2</text>
+<text x="2740.4079674323934" y="1182" font-size="22" font-weight="500" fill="#12324d" text-anchor="start">6.7%</text>
+<rect x="1830" y="1192" width="1" height="18" rx="2" fill="#d7892d" stroke="none" stroke-width="1"/>
+<text x="1802" y="1210" font-size="22" font-weight="600" fill="#536575" text-anchor="end">&gt;5</text>
+<text x="1848" y="1210" font-size="22" font-weight="500" fill="#12324d" text-anchor="start">0.00%</text>
+<rect x="1830" y="1220" width="1" height="18" rx="2" fill="#9a3b3b" stroke="none" stroke-width="1"/>
+<text x="1802" y="1238" font-size="22" font-weight="600" fill="#536575" text-anchor="end">&gt;10</text>
+<text x="1848" y="1238" font-size="22" font-weight="500" fill="#12324d" text-anchor="start">0.00%</text>
+<text x="1590" y="1336" font-size="32" font-weight="700" fill="#12324d" text-anchor="start">3-6 h</text>
+<rect x="1830" y="1284" width="33.01450169700706" height="18" rx="2" fill="#0f4c75" stroke="none" stroke-width="1"/>
+<text x="1802" y="1302" font-size="22" font-weight="600" fill="#536575" text-anchor="end">&gt;2</text>
+<text x="1875.014501697007" y="1302" font-size="22" font-weight="500" fill="#12324d" text-anchor="start">0.25%</text>
+<rect x="1830" y="1312" width="1" height="18" rx="2" fill="#d7892d" stroke="none" stroke-width="1"/>
+<text x="1802" y="1330" font-size="22" font-weight="600" fill="#536575" text-anchor="end">&gt;5</text>
+<text x="1848" y="1330" font-size="22" font-weight="500" fill="#12324d" text-anchor="start">0.00%</text>
+<rect x="1830" y="1340" width="1" height="18" rx="2" fill="#9a3b3b" stroke="none" stroke-width="1"/>
+<text x="1802" y="1358" font-size="22" font-weight="600" fill="#536575" text-anchor="end">&gt;10</text>
+<text x="1848" y="1358" font-size="22" font-weight="500" fill="#12324d" text-anchor="start">0.00%</text>
+<text x="1590" y="1456" font-size="32" font-weight="700" fill="#12324d" text-anchor="start">6-12 h</text>
+<rect x="1830" y="1404" width="1015.7215467410806" height="18" rx="2" fill="#0f4c75" stroke="none" stroke-width="1"/>
+<text x="1802" y="1422" font-size="22" font-weight="600" fill="#536575" text-anchor="end">&gt;2</text>
+<text x="2857.7215467410806" y="1422" font-size="22" font-weight="500" fill="#12324d" text-anchor="start">7.6%</text>
+<rect x="1830" y="1432" width="7.997807454654094" height="18" rx="2" fill="#d7892d" stroke="none" stroke-width="1"/>
+<text x="1802" y="1450" font-size="22" font-weight="600" fill="#536575" text-anchor="end">&gt;5</text>
+<text x="1849.997807454654" y="1450" font-size="22" font-weight="500" fill="#12324d" text-anchor="start">0.06%</text>
+<rect x="1830" y="1460" width="1" height="18" rx="2" fill="#9a3b3b" stroke="none" stroke-width="1"/>
+<text x="1802" y="1478" font-size="22" font-weight="600" fill="#536575" text-anchor="end">&gt;10</text>
+<text x="1848" y="1478" font-size="22" font-weight="500" fill="#12324d" text-anchor="start">0.00%</text>
+<text x="140" y="1800" font-size="38" font-weight="800" fill="#12324d" text-anchor="start">D</text>
+<text x="198" y="1800" font-size="38" font-weight="700" fill="#12324d" text-anchor="start">Support and positivity checks</text>
+<text x="200" y="1880" font-size="31" font-weight="700" fill="#12324d" text-anchor="start">Continuous covariate support</text>
+<line x1="720" y1="1905" x2="720" y2="2125" stroke="#d7e1e8" stroke-width="2"/>
+<text x="720" y="2165" font-size="28" font-weight="400" fill="#536575" text-anchor="middle">0%</text>
+<line x1="1060" y1="1905" x2="1060" y2="2125" stroke="#d7e1e8" stroke-width="2"/>
+<text x="1060" y="2165" font-size="28" font-weight="400" fill="#536575" text-anchor="middle">5%</text>
+<line x1="1400" y1="1905" x2="1400" y2="2125" stroke="#d7e1e8" stroke-width="2"/>
+<text x="1400" y="2165" font-size="28" font-weight="400" fill="#536575" text-anchor="middle">10%</text>
+<line x1="1740" y1="1905" x2="1740" y2="2125" stroke="#d7e1e8" stroke-width="2"/>
+<text x="1740" y="2165" font-size="28" font-weight="400" fill="#536575" text-anchor="middle">15%</text>
+<text x="200" y="1955" font-size="27" font-weight="600" fill="#12324d" text-anchor="start">Age</text>
+<rect x="720" y="1925" width="879.6491927446705" height="24" rx="2" fill="#9fbfd1" stroke="none" stroke-width="1"/>
+<rect x="720" y="1955" width="215.50727526410174" height="24" rx="2" fill="#0f4c75" stroke="none" stroke-width="1"/>
+<text x="1611.6491927446705" y="1945" font-size="22" font-weight="500" fill="#536575" text-anchor="start">12.9%</text>
+<text x="947.5072752641017" y="1975" font-size="22" font-weight="500" fill="#12324d" text-anchor="start">3.2%</text>
+<text x="200" y="2025" font-size="27" font-weight="600" fill="#12324d" text-anchor="start">Charlson comorbidity index</text>
+<rect x="720" y="1995" width="765.2224483861619" height="24" rx="2" fill="#9fbfd1" stroke="none" stroke-width="1"/>
+<rect x="720" y="2025" width="115.20829180785347" height="24" rx="2" fill="#0f4c75" stroke="none" stroke-width="1"/>
+<text x="1497.222448386162" y="2015" font-size="22" font-weight="500" fill="#536575" text-anchor="start">11.3%</text>
+<text x="847.2082918078535" y="2045" font-size="22" font-weight="500" fill="#12324d" text-anchor="start">1.7%</text>
+<text x="200" y="2095" font-size="27" font-weight="600" fill="#12324d" text-anchor="start">Baseline SOFA</text>
+<rect x="720" y="2065" width="490.3751090433266" height="24" rx="2" fill="#9fbfd1" stroke="none" stroke-width="1"/>
+<rect x="720" y="2095" width="102.82058738005253" height="24" rx="2" fill="#0f4c75" stroke="none" stroke-width="1"/>
+<text x="1222.3751090433266" y="2085" font-size="22" font-weight="500" fill="#536575" text-anchor="start">7.2%</text>
+<text x="834.8205873800525" y="2115" font-size="22" font-weight="500" fill="#12324d" text-anchor="start">1.5%</text>
+<rect x="1480" y="1860" width="26" height="18" rx="2" fill="#9fbfd1" stroke="none" stroke-width="1"/>
+<text x="1520" y="1877" font-size="24" font-weight="400" fill="#536575" text-anchor="start">Outside common p05-p95</text>
+<rect x="1480" y="1895" width="26" height="18" rx="2" fill="#0f4c75" stroke="none" stroke-width="1"/>
+<text x="1520" y="1912" font-size="24" font-weight="400" fill="#536575" text-anchor="start">Outside common p01-p99</text>
+<text x="1950" y="1880" font-size="31" font-weight="700" fill="#12324d" text-anchor="start">Predefined flag checks</text>
+<rect x="1950" y="1901" width="94" height="34" rx="17" fill="#e2f0e9" stroke="none" stroke-width="1"/>
+<text x="1997" y="1925" font-size="21" font-weight="800" fill="#2c7a57" text-anchor="middle">PASS</text>
+<text x="2070" y="1925" font-size="24" font-weight="500" fill="#12324d" text-anchor="start">Maximum final IPCW &lt;=10</text>
+<rect x="1950" y="1947" width="94" height="34" rx="17" fill="#e2f0e9" stroke="none" stroke-width="1"/>
+<text x="1997" y="1971" font-size="21" font-weight="800" fill="#2c7a57" text-anchor="middle">PASS</text>
+<text x="2070" y="1971" font-size="24" font-weight="500" fill="#12324d" text-anchor="start">99th percentile final IPCW &lt;=5</text>
+<rect x="1950" y="1993" width="94" height="34" rx="17" fill="#e2f0e9" stroke="none" stroke-width="1"/>
+<text x="1997" y="2017" font-size="21" font-weight="800" fill="#2c7a57" text-anchor="middle">PASS</text>
+<text x="2070" y="2017" font-size="24" font-weight="500" fill="#12324d" text-anchor="start">Final IPCW &gt;5 in &lt;=1% of clones</text>
+<rect x="1950" y="2039" width="94" height="34" rx="17" fill="#e2f0e9" stroke="none" stroke-width="1"/>
+<text x="1997" y="2063" font-size="21" font-weight="800" fill="#2c7a57" text-anchor="middle">PASS</text>
+<text x="2070" y="2063" font-size="24" font-weight="500" fill="#12324d" text-anchor="start">Continuous p01-p99 overlap width &gt;0</text>
+<rect x="1950" y="2085" width="94" height="34" rx="17" fill="#e2f0e9" stroke="none" stroke-width="1"/>
+<text x="1997" y="2109" font-size="21" font-weight="800" fill="#2c7a57" text-anchor="middle">PASS</text>
+<text x="2070" y="2109" font-size="24" font-weight="500" fill="#12324d" text-anchor="start">No zero-count categorical arm</text>
+<line x1="130" y1="2230" x2="3070" y2="2230" stroke="#d7e1e8" stroke-width="2"/>
+<text x="130" y="2275" font-size="27" font-weight="400" fill="#536575" text-anchor="start">Abbreviations: CCW, clone-censor-weight; ESS, effective sample size; IPCW, inverse probability of censoring weighting.</text>
+<text x="130" y="2315" font-size="27" font-weight="400" fill="#536575" text-anchor="start">Tail percentages and percentiles are summarized across the 5 imputed datasets; no final IPCW exceeded 10 and the maximum observed weight was 5.97.</text>
+</svg>
