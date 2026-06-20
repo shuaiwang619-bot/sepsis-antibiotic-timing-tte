@@ -1,0 +1,115 @@
+﻿row_type,section,characteristic,max_smd_before,max_smd_after,column,value
+data,"","Age, years",0.178,0.020,unweighted_0_3h,"65 [54, 76]"
+data,"",Male sex,0.066,0.029,unweighted_0_3h,"2,040 (59.3%)"
+data,"",White,0.092,0.047,unweighted_0_3h,"2,133 (62.0%)"
+data,"",Black,0.144,0.018,unweighted_0_3h,208 (6.0%)
+data,"",Asian,0.051,0.020,unweighted_0_3h,97 (2.8%)
+data,"",Hispanic,0.025,0.005,unweighted_0_3h,114 (3.3%)
+data,"",Other race,0.030,0.016,unweighted_0_3h,151 (4.4%)
+data,"",Unknown race,0.229,0.068,unweighted_0_3h,736 (21.4%)
+data,"",Emergency,0.825,0.036,unweighted_0_3h,"1,301 (37.8%)"
+data,"",Urgent,0.698,0.039,unweighted_0_3h,"1,325 (38.5%)"
+data,"",Elective surgical,0.437,0.045,unweighted_0_3h,561 (16.3%)
+data,"",Observation,0.114,0.008,unweighted_0_3h,252 (7.3%)
+data,"",Charlson comorbidity index,0.183,0.020,unweighted_0_3h,"5 [3, 7]"
+data,"",SOFA score at t0,0.174,0.026,unweighted_0_3h,"2 [1, 4]"
+data,"",SOFA missing,0.028,0.020,unweighted_0_3h,1 (0.0%)
+data,"",Shock at t0,0.082,0.035,unweighted_0_3h,532 (15.5%)
+data,"","Minimum mean BP, mmHg",0.027,0.054,unweighted_0_3h,"74 [65, 86]"
+data,"",Mean BP missing,0.095,0.065,unweighted_0_3h,230 (6.7%)
+data,"",Mean BP extreme/invalid,0.009,0.040,unweighted_0_3h,3 (0.1%)
+data,"","Age, years",0.178,0.020,unweighted_3_6h,"67 [55, 79]"
+data,"",Male sex,0.066,0.029,unweighted_3_6h,"1,827 (56.4%)"
+data,"",White,0.092,0.047,unweighted_3_6h,"2,048 (63.2%)"
+data,"",Black,0.144,0.018,unweighted_3_6h,265 (8.2%)
+data,"",Asian,0.051,0.020,unweighted_3_6h,83 (2.6%)
+data,"",Hispanic,0.025,0.005,unweighted_3_6h,101 (3.1%)
+data,"",Other race,0.030,0.016,unweighted_3_6h,131 (4.0%)
+data,"",Unknown race,0.229,0.068,unweighted_3_6h,613 (18.9%)
+data,"",Emergency,0.825,0.036,unweighted_3_6h,"2,215 (68.3%)"
+data,"",Urgent,0.698,0.039,unweighted_3_6h,572 (17.6%)
+data,"",Elective surgical,0.437,0.045,unweighted_3_6h,190 (5.9%)
+data,"",Observation,0.114,0.008,unweighted_3_6h,264 (8.1%)
+data,"",Charlson comorbidity index,0.183,0.020,unweighted_3_6h,"5 [3, 7]"
+data,"",SOFA score at t0,0.174,0.026,unweighted_3_6h,"2 [0, 4]"
+data,"",SOFA missing,0.028,0.020,unweighted_3_6h,3 (0.1%)
+data,"",Shock at t0,0.082,0.035,unweighted_3_6h,601 (18.5%)
+data,"","Minimum mean BP, mmHg",0.027,0.054,unweighted_3_6h,"74 [65, 86]"
+data,"",Mean BP missing,0.095,0.065,unweighted_3_6h,246 (7.6%)
+data,"",Mean BP extreme/invalid,0.009,0.040,unweighted_3_6h,2 (0.1%)
+data,"","Age, years",0.178,0.020,unweighted_6_12h,"68 [56, 80]"
+data,"",Male sex,0.066,0.029,unweighted_6_12h,"2,812 (56.0%)"
+data,"",White,0.092,0.047,unweighted_6_12h,"3,333 (66.4%)"
+data,"",Black,0.144,0.018,unweighted_6_12h,499 (9.9%)
+data,"",Asian,0.051,0.020,unweighted_6_12h,172 (3.4%)
+data,"",Hispanic,0.025,0.005,unweighted_6_12h,179 (3.6%)
+data,"",Other race,0.030,0.016,unweighted_6_12h,190 (3.8%)
+data,"",Unknown race,0.229,0.068,unweighted_6_12h,644 (12.8%)
+data,"",Emergency,0.825,0.036,unweighted_6_12h,"3,794 (75.6%)"
+data,"",Urgent,0.698,0.039,unweighted_6_12h,514 (10.2%)
+data,"",Elective surgical,0.437,0.045,unweighted_6_12h,178 (3.5%)
+data,"",Observation,0.114,0.008,unweighted_6_12h,531 (10.6%)
+data,"",Charlson comorbidity index,0.183,0.020,unweighted_6_12h,"5 [3, 7]"
+data,"",SOFA score at t0,0.174,0.026,unweighted_6_12h,"2 [0, 4]"
+data,"",SOFA missing,0.028,0.020,unweighted_6_12h,5 (0.1%)
+data,"",Shock at t0,0.082,0.035,unweighted_6_12h,918 (18.3%)
+data,"","Minimum mean BP, mmHg",0.027,0.054,unweighted_6_12h,"74 [65, 86]"
+data,"",Mean BP missing,0.095,0.065,unweighted_6_12h,464 (9.2%)
+data,"",Mean BP extreme/invalid,0.009,0.040,unweighted_6_12h,4 (0.1%)
+data,"","Age, years",0.178,0.020,weighted_0_3h,"67 [56, 78]"
+data,"",Male sex,0.066,0.029,weighted_0_3h,"1,890.5 (58.3%)"
+data,"",White,0.092,0.047,weighted_0_3h,"2,073.1 (64.0%)"
+data,"",Black,0.144,0.018,weighted_0_3h,273.5 (8.4%)
+data,"",Asian,0.051,0.020,weighted_0_3h,88.0 (2.7%)
+data,"",Hispanic,0.025,0.005,weighted_0_3h,104.6 (3.2%)
+data,"",Other race,0.030,0.016,weighted_0_3h,137.4 (4.2%)
+data,"",Unknown race,0.229,0.068,weighted_0_3h,565.0 (17.4%)
+data,"",Emergency,0.825,0.036,weighted_0_3h,"1,912.0 (59.0%)"
+data,"",Urgent,0.698,0.039,weighted_0_3h,692.9 (21.4%)
+data,"",Elective surgical,0.437,0.045,weighted_0_3h,303.0 (9.3%)
+data,"",Observation,0.114,0.008,weighted_0_3h,333.7 (10.3%)
+data,"",Charlson comorbidity index,0.183,0.020,weighted_0_3h,"5 [3, 7]"
+data,"",SOFA score at t0,0.174,0.026,weighted_0_3h,"2 [1, 4]"
+data,"",SOFA missing,0.028,0.020,weighted_0_3h,0.9 (0.0%)
+data,"",Shock at t0,0.082,0.035,weighted_0_3h,440.5 (13.6%)
+data,"","Minimum mean BP, mmHg",0.027,0.054,weighted_0_3h,"75 [66, 87]"
+data,"",Mean BP missing,0.095,0.065,weighted_0_3h,240.8 (7.4%)
+data,"",Mean BP extreme/invalid,0.009,0.040,weighted_0_3h,6.0 (0.2%)
+data,"","Age, years",0.178,0.020,weighted_3_6h,"68 [55, 79]"
+data,"",Male sex,0.066,0.029,weighted_3_6h,"1,795.4 (57.4%)"
+data,"",White,0.092,0.047,weighted_3_6h,"1,977.4 (63.2%)"
+data,"",Black,0.144,0.018,weighted_3_6h,248.1 (7.9%)
+data,"",Asian,0.051,0.020,weighted_3_6h,89.4 (2.9%)
+data,"",Hispanic,0.025,0.005,weighted_3_6h,100.6 (3.2%)
+data,"",Other race,0.030,0.016,weighted_3_6h,125.6 (4.0%)
+data,"",Unknown race,0.229,0.068,weighted_3_6h,585.4 (18.7%)
+data,"",Emergency,0.825,0.036,weighted_3_6h,"1,899.7 (60.8%)"
+data,"",Urgent,0.698,0.039,weighted_3_6h,619.6 (19.8%)
+data,"",Elective surgical,0.437,0.045,weighted_3_6h,279.1 (8.9%)
+data,"",Observation,0.114,0.008,weighted_3_6h,328.0 (10.5%)
+data,"",Charlson comorbidity index,0.183,0.020,weighted_3_6h,"5 [3, 7]"
+data,"",SOFA score at t0,0.174,0.026,weighted_3_6h,"2 [0, 4]"
+data,"",SOFA missing,0.028,0.020,weighted_3_6h,2.0 (0.1%)
+data,"",Shock at t0,0.082,0.035,weighted_3_6h,463.3 (14.8%)
+data,"","Minimum mean BP, mmHg",0.027,0.054,weighted_3_6h,"74 [65, 86]"
+data,"",Mean BP missing,0.095,0.065,weighted_3_6h,225.5 (7.2%)
+data,"",Mean BP extreme/invalid,0.009,0.040,weighted_3_6h,1.5 (0.0%)
+data,"","Age, years",0.178,0.020,weighted_6_12h,"67 [56, 79]"
+data,"",Male sex,0.066,0.029,weighted_6_12h,"2,907.9 (56.9%)"
+data,"",White,0.092,0.047,weighted_6_12h,"3,348.5 (65.5%)"
+data,"",Black,0.144,0.018,weighted_6_12h,422.2 (8.3%)
+data,"",Asian,0.051,0.020,weighted_6_12h,155.8 (3.0%)
+data,"",Hispanic,0.025,0.005,weighted_6_12h,160.7 (3.1%)
+data,"",Other race,0.030,0.016,weighted_6_12h,200.2 (3.9%)
+data,"",Unknown race,0.229,0.068,weighted_6_12h,825.8 (16.2%)
+data,"",Emergency,0.825,0.036,weighted_6_12h,"3,036.0 (59.4%)"
+data,"",Urgent,0.698,0.039,weighted_6_12h,"1,014.7 (19.8%)"
+data,"",Elective surgical,0.437,0.045,weighted_6_12h,523.9 (10.2%)
+data,"",Observation,0.114,0.008,weighted_6_12h,538.4 (10.5%)
+data,"",Charlson comorbidity index,0.183,0.020,weighted_6_12h,"5 [3, 7]"
+data,"",SOFA score at t0,0.174,0.026,weighted_6_12h,"2 [0, 4]"
+data,"",SOFA missing,0.028,0.020,weighted_6_12h,2.9 (0.1%)
+data,"",Shock at t0,0.082,0.035,weighted_6_12h,721.6 (14.1%)
+data,"","Minimum mean BP, mmHg",0.027,0.054,weighted_6_12h,"74 [64, 86]"
+data,"",Mean BP missing,0.095,0.065,weighted_6_12h,458.5 (9.0%)
+data,"",Mean BP extreme/invalid,0.009,0.040,weighted_6_12h,5.6 (0.1%)

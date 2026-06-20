@@ -1,0 +1,4 @@
+﻿contrast,reference_strategy,comparison_strategy,reference_30d_risk,comparison_30d_risk,risk_difference,risk_ratio,odds_ratio_95_ci,p_value
+3-6h vs 0-3h,0-3h,3-6h,17.47%,20.52%,3.05 pp,1.17,1.21 (1.06-1.38),0.003
+6-12h vs 0-3h,0-3h,6-12h,17.47%,21.56%,4.09 pp,1.23,1.29 (1.14-1.45),<0.001
+6-12h vs 3-6h,3-6h,6-12h,20.52%,21.56%,1.04 pp,1.05,1.06 (0.96-1.17),0.233

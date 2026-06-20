@@ -1,0 +1,16 @@
+﻿model,contrast,effect,p_value
+Main: coarse-time pooled logistic,3-6h vs 0-3h,OR 1.21 (1.06-1.38),0.003
+Main: coarse-time pooled logistic,6-12h vs 0-3h,OR 1.29 (1.14-1.45),<0.001
+Main: coarse-time pooled logistic,6-12h vs 3-6h,OR 1.06 (0.96-1.17),0.233
+Sensitivity: full hourly time-axis pooled logistic,3-6h vs 0-3h,OR 1.24 (1.09-1.40),0.001
+Sensitivity: full hourly time-axis pooled logistic,6-12h vs 0-3h,OR 1.29 (1.14-1.46),<0.001
+Sensitivity: full hourly time-axis pooled logistic,6-12h vs 3-6h,OR 1.04 (0.95-1.15),0.393
+Sensitivity: weighted Cox model,3-6h vs 0-3h,HR 1.23 (1.09-1.40),0.001
+Sensitivity: weighted Cox model,6-12h vs 0-3h,HR 1.29 (1.14-1.45),<0.001
+Sensitivity: weighted Cox model,6-12h vs 3-6h,HR 1.04 (0.95-1.15),0.402
+Sensitivity: pooled logistic with p01-p99 weight truncation,3-6h vs 0-3h,OR 1.24 (1.09-1.40),0.001
+Sensitivity: pooled logistic with p01-p99 weight truncation,6-12h vs 0-3h,OR 1.29 (1.14-1.45),<0.001
+Sensitivity: pooled logistic with p01-p99 weight truncation,6-12h vs 3-6h,OR 1.04 (0.94-1.15),0.409
+Sensitivity: pooled logistic with p05-p95 weight truncation,3-6h vs 0-3h,OR 1.23 (1.09-1.39),0.001
+Sensitivity: pooled logistic with p05-p95 weight truncation,6-12h vs 0-3h,OR 1.28 (1.14-1.44),<0.001
+Sensitivity: pooled logistic with p05-p95 weight truncation,6-12h vs 3-6h,OR 1.04 (0.94-1.15),0.435
